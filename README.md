@@ -73,9 +73,8 @@ with proper attribution.
 
 ---
 
-## 👤 About Me
-
-Hi there! I'm **Mohamed Elenany**, also known 
+## Author
+**Mohamed Elenany** Data Analyst | Business Intelligence Enthusiast
 
 
 
